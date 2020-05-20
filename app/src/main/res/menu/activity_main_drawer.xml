@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <group android:checkableBehavior="single">
+
+
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/menu_home"
+            android:title="@string/menu_home" />
+
+        <item
+            android:id="@+id/nav_presentation"
+            android:icon="@drawable/menu_info"
+            android:title="@string/menu_presentation" />
+
+        <item
+
+            android:id="@+id/nav_product"
+            android:icon="@drawable/menu_product"
+            android:title="@string/menu_product" />
+        <item
+
+            android:id="@+id/nav_partner"
+            android:icon="@drawable/menu_partener"
+            android:title="@string/menu_partner" />
+
+        <item
+            android:id="@+id/nav_contact"
+            android:icon="@drawable/menu_contact"
+            android:title="@string/menu_contact" />
+
+    </group>
+
+
+</menu>

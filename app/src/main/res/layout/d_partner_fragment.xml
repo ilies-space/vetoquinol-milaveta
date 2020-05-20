@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+
+                    android:id="@+id/imageButtond"
+                    android:layout_width="120dp"
+                    android:layout_height="120dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/partnerimg2" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <ImageView
+                    android:layout_margin="5dp"
+                    android:id="@+id/imageButtofdnd"
+                    android:layout_width="230dp"
+                    android:layout_height="230dp"
+                    android:scaleType="fitCenter"
+                    android:src="@drawable/partnerimg3" />
+
+                <TextView
+                    android:layout_margin="8dp"
+                    android:textColor="#164194"
+                    android:textAlignment="center"
+                    android:textSize="18dp"
+                    android:id="@+id/textView"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Vétérinaire de formation depuis 36 ans,
+                     Malik Boussouf, PDG du groupe."
+                    tools:ignore="HardcodedText" />
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:padding="8dp"
+                    android:background="#164194"
+                    android:textStyle="bold"
+                    android:id="@+id/tt1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="9dp"
+                    android:text="Vidéos:"
+                    android:textColor="#FFF"
+                    android:textSize="30dp" />
+
+
+                <ImageView
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:id="@+id/vid1"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    app:srcCompat="@drawable/ytimg" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+
+                <ImageView
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:id="@+id/vid2"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    app:srcCompat="@drawable/ytimg2" />
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+
+
+                <ImageView
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:id="@+id/vid3"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    app:srcCompat="@drawable/ytimg3" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:padding="8dp"
+                    android:background="#164194"
+                    android:textStyle="bold"
+                    android:id="@+id/tt21"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="9dp"
+                    android:text="images :"
+                    android:textColor="#FFF"
+                    android:textSize="30dp" />
+
+                <ImageView
+                    android:layout_margin="5dp"
+                    android:scaleType="fitXY"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:id="@+id/img1"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    app:srcCompat="@drawable/pimg1" />
+
+                <ImageView
+                    android:layout_margin="5dp"
+
+                    android:scaleType="fitXY"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:id="@+id/img2"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    app:srcCompat="@drawable/pimg2" />
+
+                <ImageView
+                    android:layout_margin="5dp"
+
+                    android:scaleType="fitXY"
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:id="@+id/img3"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    app:srcCompat="@drawable/pimg3" />
+
+                <ImageView
+                    android:layout_margin="5dp"
+
+                    android:scaleType="fitXY"
+
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:id="@+id/img4"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    app:srcCompat="@drawable/pimg4" />
+
+                <ImageView
+                    android:layout_margin="5dp"
+
+                    android:scaleType="fitXY"
+
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:id="@+id/img5"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    app:srcCompat="@drawable/pimg5" />
+
+                <ImageView
+                    android:layout_margin="5dp"
+
+                    android:scaleType="fitXY"
+
+                    android:layout_marginLeft="8dp"
+                    android:layout_marginRight="8dp"
+                    android:id="@+id/img6"
+                    android:layout_width="match_parent"
+                    android:layout_height="250dp"
+                    app:srcCompat="@drawable/pimg6" />
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/tt0"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="9dp"
+                    android:background="#164194"
+                    android:padding="8dp"
+                    android:text="Articles :"
+                    android:textColor="#FFF"
+                    android:textSize="30dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/link1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="9dp"
+                    android:background="@drawable/texlines"
+                    android:padding="5dp"
+                    android:text="- Complexe avicole Boussouf de Chelroum
+                    Laïd(Mila)"
+                    android:textColor="#000"
+                    android:textSize="16dp"
+                    android:textStyle="bold" />
+
+
+                <TextView
+                    android:id="@+id/link2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:layout_margin="9dp"
+                    android:background="@drawable/texlines"
+                    android:padding="5dp"
+                    android:text="- Le Groupe Boussouf, porte-flambeau d’une agriculture moderne"
+                    android:textColor="#000"
+                    android:textSize="16dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/link3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:layout_margin="9dp"
+                    android:background="@drawable/texlines"
+                    android:padding="5dp"
+                    android:text="- Entretien avec Malik Boussouf, PDG du
+                    centre de développement intégré de la filière avicole"
+                    android:textColor="#000"
+                    android:textSize="16dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/link4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:layout_margin="9dp"
+                    android:background="@drawable/texlines"
+                    android:padding="5dp"
+                    android:text="-Un véritable coup de fouet
+"
+                    android:textColor="#000"
+                    android:textSize="16dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/link5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:layout_margin="9dp"
+                    android:background="@drawable/texlines"
+                    android:padding="5dp"
+                    android:text="- Oued El Athmania (Mila), un bassin laitier prometteur
+"
+                    android:textColor="#000"
+                    android:textSize="16dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/link6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+
+                    android:layout_margin="9dp"
+                    android:background="@drawable/texlines"
+                    android:padding="5dp"
+                    android:text="- L’Algérie mise sur l’agriculture
+"
+                    android:textColor="#000"
+                    android:textSize="16dp"
+                    android:textStyle="bold" />
+
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>

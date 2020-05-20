@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/childid"
+    android:orientation="vertical">
+
+    <TextView
+
+        android:padding="10dp"
+        android:textSize="13dp"
+        android:lineSpacingExtra="10dp"
+        android:gravity="center_vertical"
+        android:fontFamily="@font/dinpro_mediumitalic"
+        android:text="@string/Histoire"
+        android:id="@+id/textViewChild"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#000" />
+
+
+
+
+
+
+
+</LinearLayout>

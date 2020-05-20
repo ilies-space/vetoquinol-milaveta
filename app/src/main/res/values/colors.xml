@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="green">#348737</color>
+    <color name="purbl">#39074C</color>
+
+
+    <color name="aluspray1">#F9DF05</color>
+    <color name="aluspray2">#1AF9DF05</color>
+
+    <color name="avemix1">#970B3C</color>
+    <color name="avemix2">#1A970B3C</color>
+
+    <color name="cortamethasone1">#AE9775</color>
+    <color name="cortamethasone2">#1AAE9775</color>
+
+    <color name="fercobsang1">#9F9E31</color>
+    <color name="fercobsang2">#1A9F9E31</color>
+
+
+    <color name="calmagine1">#F1D6B8</color>
+    <color name="calmagine2">#1AF1D6B8</color>
+
+    <color name="Frecardyl1">#57019A</color>
+    <color name="Frecardyl2">#1A57019A</color>
+
+
+    <color name="theracalcium1">#39074C</color>
+    <color name="theracalcium2">#1A39074C</color>
+
+    <color name="vitac1">#858584</color>
+    <color name="vitac2">#1A858584</color>
+
+    <color name="penhista1">#D6A642</color>
+    <color name="penhista2">#1AD6A642</color>
+
+    <color name="Longamox1">#133C8B</color>
+    <color name="Longamox2">#1A133C8B</color>
+
+    <color name="Longicine1">#86D2E0</color>
+    <color name="Longicine2">#1A86D2E0</color>
+
+    <color name="Marbocyl1">#362A8E</color>
+    <color name="Marbocyl2">#1A362A8E</color>
+
+    <color name="Enrobioflox1">#212856</color>
+    <color name="Enrobioflox2">#1A212856</color>
+
+
+    <color name="Tolfine1">#01565B</color>
+    <color name="Tolfine2">#1A01565B</color>
+
+    <color name="Diurizone1">#D1BC23</color>
+    <color name="Diurizone2">#1AD1BC23</color>
+
+    <color name="Diurizonep1">#EBD6AB</color>
+    <color name="Diurizonep2">#1AEBD6AB</color>
+
+    <color name="Biomectin1">#0044C6</color>
+    <color name="Biomectin2">#1A0044C6</color>
+
+    <color name="Lodevil1">#1F3173</color>
+    <color name="Lodevil2">#1A1F3173</color>
+
+
+    <color name="Corebral1">#494B4A</color>
+    <color name="Corebral2">#1A494B4A</color>
+
+
+
+
+    <color name="Ascophos1">#FF5000 </color>
+    <color name="Ascophos2">#1AFF5000</color>
+
+
+    <color name="EservitAD3EKB1">#000000 </color>
+    <color name="EservitAD3EKB2">#1A000000</color>
+
+
+    <color name="Eservitb1">#FF0000 </color>
+    <color name="Eservitb2">#1AFF0000</color>
+
+
+    <color name="EservitAD3E1001">#000000 </color>
+    <color name="EservitAD3E1002">#1A000000</color>
+
+
+    <color name="Vitaminae1">#0000FF </color>
+    <color name="Vitaminae2">#1A0000FF</color>
+
+    <color name="Aminovitamin1">#727272 </color>
+    <color name="Aminovitamin2">#1A727272</color>
+
+    <color name="Eritromicina2001">#007cd2 </color>
+    <color name="Eritromicina2002">#1A007cd2</color>
+
+
+    <color name="Ascorequil1">#ba62a8 </color>
+    <color name="Ascorequil2">#1Aba62a8</color>
+
+
+    <color name="AmoxiOne1kg1">#007cd2 </color>
+    <color name="AmoxiOne1kg2">#1A007cd2</color>
+
+
+
+    <color name="AmoxiOne100g1">#007cd2 </color>
+    <color name="AmoxiOne100g2">#1A007cd2</color>
+
+
+    <color name="Amprolium1">#edc400 </color>
+    <color name="Amprolium2">#1Aedc400</color>
+
+
+    <color name="color1">#39457C</color>
+    <color name="color2">#3dfd4C</color>
+    <color name="color3">#09287d</color>
+    <color name="color4">#D81B60</color>
+    <color name="color5">#fd004C</color>
+    <color name="color6">#008577</color>
+    <color name="color7">#FF12</color>
+    <color name="color8">#FF1</color>
+
+</resources>
